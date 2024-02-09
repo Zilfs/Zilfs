@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-### 💫 About Me:
+<!-- ### 💫 About Me:
 i'm currently focusing on learning and developing website applications, I am used to using laravel in developing my website project
 
 
